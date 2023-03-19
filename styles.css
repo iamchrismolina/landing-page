@@ -175,6 +175,55 @@ body {
   text-align: end;
 }
 
+/* Call to Action */
+
+.content__cta {
+  background-color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 30em;
+}
+
+.content__cta-container {
+  background-color: #3882f6;
+  padding: 3.5em 7.5em;
+  flex-basis: 64rem;
+  height: 15em;
+  border-radius: 10px;
+}
+
+.content__cta-title {
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 2rem;
+  margin-bottom: 0;
+}
+
+.content__cta-text {
+  display: inline-block;
+  font-size: 1.25rem;
+  color: #dae1ec;
+  margin: 0;
+}
+
+.content__cta-btn {
+  background-color: #3882f6;
+  border: 3px solid #ffffff;
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 18px;
+  border-radius: 5px;
+  display: inline-block;
+  width: 10em;
+  height: 2.5em;
+  margin-left: 5em;
+  position: relative;
+  top: -15px;
+}
+
+/* Footer */
+
 /*
 .header__nav > ul {
   display: flex;
