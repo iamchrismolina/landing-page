@@ -115,7 +115,6 @@ body {
   gap: 3em;
   flex-wrap: wrap;
   padding: 3.5em 8em 8em 10em;
-  border: 1px solid red;
 }
 
 .content__title {
@@ -133,15 +132,14 @@ body {
   max-width: 15em;
   height: 85%;
   margin-inline: 20px;
-  border: 1px solid red;
 }
 
 .content__product-image {
   display: block;
+  border: 4px solid #9dc1fb;
   margin: 0;
   height: 60%;
   border-radius: 15px;
-  border: 2px solid pink;
 }
 
 .content__product-text {
@@ -149,6 +147,8 @@ body {
   margin-top: 15px;
   color: #4b5563;
 }
+
+/* Testimonial */
 
 /*
 .header__nav > ul {
