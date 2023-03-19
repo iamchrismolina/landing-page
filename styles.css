@@ -224,6 +224,16 @@ body {
 
 /* Footer */
 
+.footer {
+  background-color: #1f2937;
+  color: #f1f2f2;
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 7em;
+}
+
 /*
 .header__nav > ul {
   display: flex;
