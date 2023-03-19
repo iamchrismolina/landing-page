@@ -150,6 +150,31 @@ body {
 
 /* Testimonial */
 
+.content__testimony {
+  background-color: #e5e7eb;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 35em;
+}
+
+.content__testimony-quote {
+  flex-basis: 50rem;
+  font-size: 36px;
+  font-weight: 300;
+}
+
+.content__testimony-text {
+  font-style: italic;
+  color: #1f2937;
+}
+
+.content__testimony-author {
+  font-weight: bold;
+  font-size: 26px;
+  text-align: end;
+}
+
 /*
 .header__nav > ul {
   display: flex;
