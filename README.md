@@ -12,7 +12,7 @@ I first setup the html and its proper semantic elements to create a good section
 Each CSS's selector styling properties are divided into categories namely:
 Layout, Typography, Colors, Borders, & Animations which is useful for easily navigating the stylesheet for future renditions.
 
-**Tech used**: HTML, CSS
+**Tech used**: HTML CSS
 
 ## Optimizations
 
