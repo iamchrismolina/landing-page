@@ -1,7 +1,9 @@
-<<<<<<< HEAD
 # landing-page
 
 This is a draft landing-page website which can be used as a template to populate any of your ideas for a landing-page
+
+![Markdown Logo](https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/01.png
+)
 
 ## How It's Made:
 
@@ -10,7 +12,7 @@ I first setup the html and its proper semantic elements to create a good section
 Each CSS's selector styling properties are divided into categories namely:
 Layout, Typography, Colors, Borders, & Animations which is useful for easily navigating the stylesheet for future renditions.
 
-**Tech used:** HTML & CSS
+**Tech used**: HTML & CSS
 
 ## Optimizations
 
@@ -29,6 +31,3 @@ Semantic HTML naming designation
 ## My Projects
 
 https://github.com/iamchrismolina/odin-recipes
-=======
-# landing-page
->>>>>>> main
