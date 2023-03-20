@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # landing-page
 
 This is a draft landing-page website which can be used as a template to populate any of your ideas for a landing-page
@@ -28,3 +29,6 @@ Semantic HTML naming designation
 ## My Projects
 
 https://github.com/iamchrismolina/odin-recipes
+=======
+# landing-page
+>>>>>>> main
