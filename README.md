@@ -30,4 +30,4 @@ Semantic HTML naming designation
 
 ## My Projects
 
-**Odin-Recipes**:https://github.com/iamchrismolina/odin-recipes
+**Odin-Recipes**: https://github.com/iamchrismolina/odin-recipes
